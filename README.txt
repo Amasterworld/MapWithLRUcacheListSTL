@@ -1,4 +1,4 @@
-Thí project was made for a company, 
+This project was made for a company, 
 Project: Efficient Key-Value-Store
 
 Short Description:

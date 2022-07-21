@@ -1,4 +1,4 @@
-This project was made for a company, 
+This project was made for CeloSh!t, 
 Project: Efficient Key-Value-Store
 
 Short Description:

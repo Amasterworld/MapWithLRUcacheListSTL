@@ -27,8 +27,7 @@ Contributing:
 
 Roadmap:
 	
-	● For my self: implement LRUcache + TTL (Time To live)  (done)
-	● tested with the third party unordered_map (e.g., ska:: unordered_map)
-	● Change it to be a template
-	
-	
+	● implement LRUcache + TTL (Time To live)  (done)
+	● test with the third party unordered_map (e.g., ska:: unordered_map)
+	● Change it to be a template (done)
+	● provide unit tests (done)

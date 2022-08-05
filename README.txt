@@ -31,4 +31,5 @@ Roadmap:
 	● test with the third party unordered_map (e.g., ska:: unordered_map)
 	● Change it to be a template (done)
 	● provide unit tests (done)
+	● develop a cache with LFU (least frequently used) policy and its template (done)
 	● Optimize SSO (short string optimization), in many situations: we do not need more than 16 chars or 22 chars (clang) for SSO

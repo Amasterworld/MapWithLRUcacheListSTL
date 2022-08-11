@@ -1,4 +1,4 @@
-This project was made for eloSh!t, 
+ 
 Project: Efficient Key-Value-Store
 
 Short Description:
